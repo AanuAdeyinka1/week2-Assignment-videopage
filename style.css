@@ -18,9 +18,10 @@ body {
   padding-bottom: 40px;
   width: 100%;
   padding-left: 10rem;
+  border: 3px;
 }
   .vid {
-    border-radius: 5px;
+    border-radius: 30px;
     width: 50%;
     
   }
