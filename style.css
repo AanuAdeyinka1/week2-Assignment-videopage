@@ -1,0 +1,41 @@
+body {
+  background-color: whitesmoke;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#line-1{
+  font-weight: lighter;
+}
+.user {
+  display: block;
+  margin-left: 100px;
+  padding-left: 10rem;
+}
+
+.video {
+  margin-top: 0;
+  display: block;
+  margin-left: 80px;
+  padding-bottom: 40px;
+  width: 100%;
+  padding-left: 10rem;
+}
+  .vid {
+    border-radius: 5px;
+    width: 50%;
+    
+  }
+
+  .block-quote{
+    font-weight: bolder;
+  }
+
+.user {
+  display: block;
+  margin-left: 90px;
+  text-align: justify;
+  padding-left: 10rem;
+}
+
+.speaker{
+   padding-left: 12rem;
+}
